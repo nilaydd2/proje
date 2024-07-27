@@ -1,0 +1,13 @@
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\bin\Debug\WindowsFormsApp_proje.exe.config
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\bin\Debug\WindowsFormsApp_proje.exe
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\bin\Debug\WindowsFormsApp_proje.pdb
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.csproj.AssemblyReference.cache
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.Form1.resources
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.Form2.resources
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.Properties.Resources.resources
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.csproj.GenerateResource.cache
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.csproj.CoreCompileInputs.cache
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.exe
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.pdb
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.Form3.resources
+C:\Users\Nilay\source\repos\WindowsFormsApp_proje\WindowsFormsApp_proje\obj\Debug\WindowsFormsApp_proje.Form4.resources
